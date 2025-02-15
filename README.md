@@ -1,8 +1,4 @@
-# Guessing_Game
-CS50 Final project
-
-
-
+#### Video Demo:  https://www.youtube.com/watch?v=v6AHIsvY_JM&ab_channel=imnotasheikh
 #### Description:
 
 
